@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 萦芑Blog
-subtitle: ''
+title: 月亮小屋
+subtitle: '林'
 description: ''
 keywords:
-author: 萦芑
-language: zh-TW
+author: 月亮
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://isgo.top
+url: https://blog.monl.cc
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
