@@ -1,1 +1,1 @@
-var posts=["2014/06/01/hello-world/","2014/06/01/yun/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2014/06/01/yun/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
