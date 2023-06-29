@@ -1,4 +1,5 @@
 ---
+abbrlink: ''
 aside: true
 categories:
 - - IDEA
@@ -7,19 +8,19 @@ comment: true
 cover: ''
 date: '2022-03-25'
 description: IDEA使用JSP用户登录案例
-excerpt: '100'
+excerpt: 100
 keywords: IDEA使用JSP用户登录案例
 locate: 广西
 recommend: true
 tags:
 - IDEA
 - JSP
-title: IDEA使用JSP用户登录案例
+title: IDEA
+updated: 2023-6-29T15:30:39.196+8:0
 ---
 ## 导读
 
 JSP实现用户登录、注销
-
 
 ### 准备工作
 
