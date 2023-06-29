@@ -1,10 +1,21 @@
 ---
-title: markdown语法
-date:
-categories: 学习
-top_img:
-keywords : 学习
+aside: true
+categories:
+- HI
+cc: 原创
+comment: true
 cover: https://image.muerg.cn/2/2023/05/14/646057f61fb59.jpg
+date: 2014-6-1
+description: hi
+excerpt: '50'
+keywords: HEXO
+locate: 深圳
+recommend: true
+tags:
+- 日常
+- 热门
+title: markdown语法
+updated: 2023-9-6
 ---
 
 ## 代码块 ：
