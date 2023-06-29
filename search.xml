@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hero note</title>
-    <url>/2023/05/02/HexoNote/</url>
-    <content><![CDATA[<h2 id="note"><a href="#note" class="headerlink" title="note"></a>note</h2><h4 id="上传"><a href="#上传" class="headerlink" title="上传"></a>上传</h4><p><code>hexo g -&gt;hero d -&gt;hero s</code> </p>
-<p>hexo s 预览本地</p>
-<p>hero clean 清除缓存</p>
-<p>hero 本地上传</p>
-<h4 id="基本配置"><a href="#基本配置" class="headerlink" title="基本配置"></a>基本配置</h4><p>avatar 头像</p>
-<p>categor :分类</p>
-<p>valine :评论</p>
-<p>reward :评论</p>
-<h4 id="快捷键"><a href="#快捷键" class="headerlink" title="快捷键"></a>快捷键</h4><p>command ➕s 保存代码</p>
-<p>command ➕ f 全局搜索</p>
-<p>control ➕c 停止</p>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-  </entry>
-  <entry>
     <title>markdown语法</title>
     <url>/2023/06/29/markdown/</url>
     <content><![CDATA[<h2 id="代码块-："><a href="#代码块-：" class="headerlink" title="代码块 ："></a>代码块 ：</h2><p>1.java代码</p>
