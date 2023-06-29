@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>markdown语法</title>
-    <url>/2023/06/29/markdown/</url>
+    <url>/2014/06/01/markdown/</url>
     <content><![CDATA[<h2 id="代码块-："><a href="#代码块-：" class="headerlink" title="代码块 ："></a>代码块 ：</h2><p>1.java代码</p>
 <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">HelloWorld</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;hello,world&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 
@@ -12,7 +12,11 @@
 <p>option ➕ command ➕ c</p>
 <h2 id="2-标题-："><a href="#2-标题-：" class="headerlink" title="2.标题 ："></a>2.标题 ：</h2><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4>]]></content>
       <categories>
-        <category>学习</category>
+        <category>HI</category>
       </categories>
+      <tags>
+        <tag>日常</tag>
+        <tag>热门</tag>
+      </tags>
   </entry>
 </search>
